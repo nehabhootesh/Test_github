@@ -1,4 +1,5 @@
-hello world !! Nw in Github
+hello world !! New in Github
 Author : Neha B
 Twitter handle: @nehagowda
 Website: https://www.google.com
+Creating pull requests for a new feature
